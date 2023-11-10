@@ -1,7 +1,6 @@
 # cooperReynoldsPortfolio
 Project and Work Experience Portfolio
 
-##aboutME
 
 Hello! I'm Cooper Reynolds, a dedicated junior year student majoring in Electrical and Computer Engineering, with a passion for software-based machine learning and embedded systems. My academic journey has been a blend of coursework and hands-on projects, where I've developed a robust skill set in both theoretical and practical aspects of engineering. My portfolio showcases a range of software programs I've crafted during my academic tenure, along with demonstrations of my technical skills in electrical engineering.
 
